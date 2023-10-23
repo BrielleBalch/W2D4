@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: "Merriweather", sans-serif;
+    border: 3px solid black;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+.title {
+    padding: 15px 30px;
+}
+.firstName {
+    padding-bottom: 10px 10px;
+}
+.lastName {
+    padding: 10px;
+}
+.email {
+    padding-bottom: 10px;
+}
+.submit {
+    padding: 10px 10px 15px;
+    
+}
+
